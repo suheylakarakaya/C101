@@ -1,8 +1,8 @@
-#include <stdio.h>
+#include <stdio.h>   // standart input-output kütüphesi
 
-int main() {
-	printf("Merhaba dunya!\n");
-	system("pause");
+int main() { 	     // ana fonksiyon
+	printf("Merhaba dunya!\n"); //Ekrana verileri yazmak içim kullanılan bir fonksiyondur.
+	system("pause");	    //Devc++ ide sini kullanıyorsanız, program çalıştıktan sonra terminal penceresinin kapanmasını önler. 
 	return 0;
 }
 
