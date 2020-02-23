@@ -1,4 +1,4 @@
-//İki sayinin yerinin degistirilmesini saglayan program//
+//İki sayinin yerinin degistirilmesini saglayan programdir//
 #include <stdio.h>
 
 int main(){
